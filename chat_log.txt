@@ -1,0 +1,9 @@
+[2025-06-20 10:44:52] You: AI full form
+[2025-06-20 10:44:52] CodTechBot: AI stands for Artificial Intelligence.
+
+[2025-06-20 10:45:12] You: How are you??
+[2025-06-20 10:45:12] CodTechBot: I'm just a program, but I'm functioning as expected!
+
+[2025-06-20 10:45:44] You: Tell me a Joke
+[2025-06-20 10:45:44] CodTechBot: Why do programmers prefer dark mode? Because light attracts bugs!
+
