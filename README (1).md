@@ -34,6 +34,6 @@ Terminal-based chatbot that gives intelligent responses
 Automatically logs all conversation to chat_log.txt for future reference
 
 ✅ Completed By
-V. Nithish
+K.Muthukrishnan
 CodTech Internship – Task 3: AI Chatbot with NLP
 
